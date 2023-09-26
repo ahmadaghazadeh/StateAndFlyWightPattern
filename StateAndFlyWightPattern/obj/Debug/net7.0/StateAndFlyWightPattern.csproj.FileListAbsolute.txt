@@ -1,0 +1,14 @@
+D:\Aghazadeh\Git\StateAndFlyWightPattern\StateAndFlyWightPattern\bin\Debug\net7.0\StateAndFlyWightPattern.exe
+D:\Aghazadeh\Git\StateAndFlyWightPattern\StateAndFlyWightPattern\bin\Debug\net7.0\StateAndFlyWightPattern.deps.json
+D:\Aghazadeh\Git\StateAndFlyWightPattern\StateAndFlyWightPattern\bin\Debug\net7.0\StateAndFlyWightPattern.runtimeconfig.json
+D:\Aghazadeh\Git\StateAndFlyWightPattern\StateAndFlyWightPattern\bin\Debug\net7.0\StateAndFlyWightPattern.dll
+D:\Aghazadeh\Git\StateAndFlyWightPattern\StateAndFlyWightPattern\bin\Debug\net7.0\StateAndFlyWightPattern.pdb
+D:\Aghazadeh\Git\StateAndFlyWightPattern\StateAndFlyWightPattern\obj\Debug\net7.0\StateAndFlyWightPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aghazadeh\Git\StateAndFlyWightPattern\StateAndFlyWightPattern\obj\Debug\net7.0\StateAndFlyWightPattern.AssemblyInfoInputs.cache
+D:\Aghazadeh\Git\StateAndFlyWightPattern\StateAndFlyWightPattern\obj\Debug\net7.0\StateAndFlyWightPattern.AssemblyInfo.cs
+D:\Aghazadeh\Git\StateAndFlyWightPattern\StateAndFlyWightPattern\obj\Debug\net7.0\StateAndFlyWightPattern.csproj.CoreCompileInputs.cache
+D:\Aghazadeh\Git\StateAndFlyWightPattern\StateAndFlyWightPattern\obj\Debug\net7.0\StateAndFlyWightPattern.dll
+D:\Aghazadeh\Git\StateAndFlyWightPattern\StateAndFlyWightPattern\obj\Debug\net7.0\refint\StateAndFlyWightPattern.dll
+D:\Aghazadeh\Git\StateAndFlyWightPattern\StateAndFlyWightPattern\obj\Debug\net7.0\StateAndFlyWightPattern.pdb
+D:\Aghazadeh\Git\StateAndFlyWightPattern\StateAndFlyWightPattern\obj\Debug\net7.0\StateAndFlyWightPattern.genruntimeconfig.cache
+D:\Aghazadeh\Git\StateAndFlyWightPattern\StateAndFlyWightPattern\obj\Debug\net7.0\ref\StateAndFlyWightPattern.dll

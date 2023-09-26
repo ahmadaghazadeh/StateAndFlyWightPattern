@@ -8,7 +8,7 @@
         public Request()
         {
             Amount = 0;
-            RequestState=new DraftRequestState();
+            RequestState=RequestStateFactory.GetState<DraftRequestState>()!;
         }
 
         public void UpdateAmount(int amount)
@@ -27,7 +27,7 @@
         {
             if (RequestState.CanAcceptRequest())
             {
-                this.RequestState = new AcceptedRequestState();
+                this.RequestState = RequestStateFactory.GetState<AcceptedRequestState>()!;
             }
             else
             {
