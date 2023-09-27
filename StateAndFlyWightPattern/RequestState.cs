@@ -3,14 +3,9 @@ namespace StateAndFlyWightPattern
 {
     public abstract class RequestState
     {
-        public virtual bool CanUpdateRequest()
-        {
-            return false;
-        }
+        public virtual bool CanUpdateRequest()=> false;
+       
 
-        public virtual bool CanAcceptRequest()
-        {
-            return false;
-        }
+        public virtual bool CanAcceptRequest() => false;
     }
 }

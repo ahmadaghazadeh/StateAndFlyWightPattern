@@ -2,12 +2,11 @@
 
 namespace StateAndFlyWightPattern
 {
-    public static class RequestStateFactory
+    public static class RequestStateFactory<TGeneric>
     {
-        private static ConcurrentDictionary<string, RequestState> States =
-         new ConcurrentDictionary<string, RequestState>();
+        private static readonly ConcurrentDictionary<string, TGeneric> States = new ();
 
-        public static T? GetState<T>() where T : RequestState, new()
+        public static T? GetState<T>() where T : class, TGeneric, new()
         {
             var nameOfType = typeof(T).Name;
             return States.GetOrAdd(nameOfType, (key) => new T()) as T;
